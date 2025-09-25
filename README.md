@@ -190,7 +190,8 @@ endmodule
 
 The simulation is carried out using ModelSim 2020.1.
 
-(Insert waveform screenshot here after running simulation in ModelSim)
+![WhatsApp Image 2025-09-25 at 10 05 21_d5ba8094](https://github.com/user-attachments/assets/ac4fdbca-db48-498a-b5ed-0b05b9b879d1)
+
 
 ---
 
